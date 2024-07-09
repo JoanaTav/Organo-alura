@@ -13,7 +13,7 @@ Porém fico feliz em olhar para a minha própria versão de meses atrás, que n�
 
 <h2>Funcionalidades: organizar cards por categorias</h2>
 
-<h2>Deploy: </h2> 
+<h2>Deploy: https://organo-alura-joanatav.vercel.app/ </h2> 
 
 <br></br>
 <br></br>
