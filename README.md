@@ -16,7 +16,6 @@ Porém fico feliz em olhar para a minha própria versão de meses atrás, que n�
 <h2>Deploy: https://organo-alura-joanatav.vercel.app/ </h2> 
 
 <br></br>
-<br></br>
 
 <h2>Preview 👀 </h2>
 
