@@ -1,6 +1,6 @@
 # Organo Alura 
 
-Projeto desenvolvido durante o curso Desenvolvendo com JavaScript da Formação Front End T6 - ONE Oracle + Alura
+Projeto desenvolvido durante o curso React: Desenvolvendo com JavaScript da Formação Front End T6 - ONE Oracle + Alura
 
 Meu primeiro projeto com React! 
 <p> O Organo consiste na criação de uma plataforma de organogramas onde o usuário pode adicionar cards personalizados, divididos em diferentes categorias.
